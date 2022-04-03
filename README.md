@@ -6,10 +6,6 @@ _Virtual Stock Simulation Game_
 
 **_Introduction:_**
 
-_Group members: Goli Smaran (3035830703), Mohammad Abdur Rahman (3035756579)_
-
-_Group no: 78_
-
 Investing in stocks is a very important financial strategy in today’s world, as it enables one to grow with the economy, also to make money in two ways. Starting early is the key to becoming a successful investor. For example, educating students about investment is very important, and presently, in schools, the only focus is to teach formulas of compounding, hence they end up in between some numeric values, the significance of which they may not understand.
 
 Through virtual world simulation, we want to give our players the experience required, also help them understand what compounding and investing actually means. Our game can be a wonderful platform for potential investors to build their own portfolio and gain the experience and feel of placing trade and orders.
